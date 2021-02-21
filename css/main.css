@@ -90,6 +90,11 @@ button:hover {
     box-shadow: 0 0 10px rgba(255, 255, 255, .85);
 }
 
+input {
+    outline: none;
+    border: none;
+}
+
 p {
     color: white;
     font-size: 22px;
