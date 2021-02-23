@@ -139,3 +139,11 @@ p {
     text-shadow: 0 0 10px rgba(255, 255, 255, .85);
     font-size: 23px;
 }
+
+.project {
+    color: white;
+    font-size: 72px;
+    padding-top: 20vh;
+    text-align: center;
+    text-shadow: 0 0 10px rgba(255, 255, 255, .45);
+}
